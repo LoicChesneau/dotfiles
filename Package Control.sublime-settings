@@ -1,20 +1,4 @@
 {
-<<<<<<< HEAD
-	"bootstrapped": true,
-	"installed_packages":
-	[
-		"A File Icon",
-		"AdvancedNewFile",
-		"All Autocomplete",
-		"Babel",
-		"Emmet",
-		"ERB Snippets",
-		"Git",
-		"GitGutter",
-		"Package Control",
-		"SCSS"
-	]
-=======
   "installed_packages":
   [
     "A File Icon",
@@ -29,7 +13,7 @@
     "Package Control",
     "SCSS",
     "SublimeLinter",
-    "SublimeLinter-rubocop"
+    "SublimeLinter-rubocop",
+    "BracketHighlighter"
   ]
->>>>>>> 97dc215852629c24f67badf7c1f2bad0d985abe6
 }
